@@ -25,7 +25,7 @@ permalink: /hotel/
             <div class="col-md-1 text-center">
             </div>
             <div class="col-md-5">
-                <a href="blog-post.html">
+                <a href="../hos-su">
                     <img class="img-responsive img-hover" src="/img/h1.jpg" alt="">
                 </a>
             </div>
@@ -48,7 +48,7 @@ permalink: /hotel/
             <div class="col-md-1 text-center">
             </div>
             <div class="col-md-5">
-                <a href="blog-post.html">
+                <a href="../hos-pa">
                     <img class="img-responsive img-hover" src="/img/h2.jpg" alt="">
                 </a>
             </div>
@@ -70,7 +70,7 @@ permalink: /hotel/
             <div class="col-md-1 text-center">
             </div>
             <div class="col-md-5">
-                <a href="blog-post.html">
+                <a href="../hos-si">
                     <img class="img-responsive img-hover" src="/img/h3.jpg" alt="">
                 </a>
             </div>
