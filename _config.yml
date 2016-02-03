@@ -1,9 +1,0 @@
-
-# Site settings
-title: Nakhone Sri | Travel
-
-baseurl: "/v1.2" # the subpath of your site, e.g. /blog
-url: "http://azynxtw.github.io/azy/" # the base hostname & protocol for your site
-
-# Build settings
-markdown: kramdown
